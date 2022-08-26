@@ -1,0 +1,4 @@
+C:\Users\Dhanush\documents\visual studio 2012\Projects\E-Freelancer\E-Freelancer\bin\E-Freelancer.dll
+C:\Users\Dhanush\documents\visual studio 2012\Projects\E-Freelancer\E-Freelancer\bin\E-Freelancer.pdb
+C:\Users\Dhanush\documents\visual studio 2012\Projects\E-Freelancer\E-Freelancer\obj\Debug\E-Freelancer.dll
+C:\Users\Dhanush\documents\visual studio 2012\Projects\E-Freelancer\E-Freelancer\obj\Debug\E-Freelancer.pdb
